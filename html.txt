@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Charity Name</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Your Charity</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#mission">Our Mission</a></li>
+                <li><a href="#events">Events</a></li>
+                <li><a href="#volunteer">Volunteer</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home">
+        <h2>Welcome to Our Charity</h2>
+        <p>We are dedicated to making the world a better place.</p>
+    </section>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Learn more about our organization and our team.</p>
+    </section>
+    <section id="mission">
+        <h2>Our Mission</h2>
+        <p>Our mission is to improve lives and build a better community.</p>
+    </section>
+    <section id="events">
+        <h2>Upcoming Events</h2>
+        <p>Join us at our upcoming events and make a difference.</p>
+    </section>
+    <section id="volunteer">
+        <h2>Volunteer with Us</h2>
+        <p>Find out how you can get involved and help us achieve our goals.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Get in touch with us for more information.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Your Charity Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
